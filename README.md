@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Angelo</h1>
-<h3 align="center">A Data Enthusiast From Surabaya, Indonesia</h3>
+<h1 align="center">Hey there! I'm Christolini Angelo 👋 </h1>
+<h3 align="center">🚀 Data Enthusiast | Machine Learning | Open Source ♥ | Web Dev | Genshin Addict  🚀</h3>
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="[https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png](https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-hutao/sticker_8.png?2c9966a5520fdab6c03fda5ca193f388&d=200x200)" />
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christoliniangelo&label=Profile%20views&color=0e75b6&style=flat" alt="christoliniangelo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christoliniangelo" alt="christoliniangelo" /></a> </p>
-
-- 🔭 I’m currently working on [Kucing_Web](https://github.com/ChristoliniAngelo/KucingKu-Web)
-
-- 🌱 I’m currently learning **Machine Learning and Framework**
-
-- 📫 How to reach me **christoliniangelo@gmail.com**
+  - 🤔 &nbsp; Exploring new technologies and developing software and machine learning.
+  - 🎓 &nbsp; Studying Computer Science and Engineering.
+  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+</div> 
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
