@@ -9,7 +9,7 @@
   - 🎓 &nbsp; Studying Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - ✍️ &nbsp; Pursuing More Knowledge and Gaming as hobbies/side hustles.  
 </div> 
 </div>
 
