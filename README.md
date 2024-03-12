@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christoliniangelo&label=Profile%20views&color=0e75b6&style=flat" alt="christoliniangelo" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christoliniangelo" alt="christoliniangelo" /></a> </p>
+
 - 🔭 I’m currently working on [Kucing_Web](https://github.com/ChristoliniAngelo/KucingKu-Web)
 
 - 🌱 I’m currently learning **Machine Learning and Framework**
