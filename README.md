@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Christolini Angelo 👋 </h1>
 <h3 align="center">🚀 Data Enthusiast | Machine Learning | Open Source ♥ | Web Dev | Genshin Addict  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="[https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png](https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-hutao/sticker_8.png?2c9966a5520fdab6c03fda5ca193f388&d=200x200)" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-hutao/sticker_2.png?2c9966a5520fdab6c03fda5ca193f388&d=200x200" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
