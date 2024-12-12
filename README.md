@@ -12,7 +12,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software and machine learning.
-- 🎓 &nbsp; Studying Computer Science and Engineering.
+- 🎓 &nbsp; Computer Science and Engineering Fresh Graduates.
 - 💼 &nbsp; I'm currently working on Full Stack Development projects.
 - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
 - ✍️ &nbsp; Pursuing More Knowledge and Gaming as hobbies/side hustles.
