@@ -1,6 +1,11 @@
 <h1 align="center"> Hey there! I'm Christolini Angelo 👋 </h1>
 
 <h3 align="center">🚀 Web Dev & AI/ML Enthusiast | Genshin Addict  🚀</h3>
+
+<p align="center">
+  <img src="https://media.tenor.com/rRPKwueMmooAAAAd/klee-albedo-genshin.gif" alt="Klee and Albedo GIF" />
+</p>
+
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-hutao/sticker_2.png?2c9966a5520fdab6c03fda5ca193f388&d=200x200" />
 <div align="left"> 
