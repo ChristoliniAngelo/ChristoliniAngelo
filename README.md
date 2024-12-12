@@ -7,7 +7,7 @@
 </p>
 
 <div>
-<img align="right" alt="PIC" height="300px" src="https://i.pinimg.com/originals/1e/98/b3/1e98b30a51853928731feea866258107.png" />
+<img align="right" alt="PIC" src="https://i.pinimg.com/originals/1e/98/b3/1e98b30a51853928731feea866258107.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
