@@ -7,7 +7,7 @@
 </p>
 
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://i.pinimg.com/originals/1e/98/b3/1e98b30a51853928731feea866258107.png" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-hutao/sticker_2.png?2c9966a5520fdab6c03fda5ca193f388&d=200x200" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
