@@ -1,17 +1,19 @@
-<h1 align="center">Hey there! I'm Christolini Angelo 👋 </h1>
-<h3 align="center">🚀 Data Enthusiast | Machine Learning | Open Source ♥ | Web Dev | Genshin Addict  🚀</h3>
+<h1 align="center">` Hey there! I'm Christolini Angelo 👋 </h1>
+
+<h3 align="center">🚀 Web Dev & AI/ML Enthusiast | Genshin Addict  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-hutao/sticker_2.png?2c9966a5520fdab6c03fda5ca193f388&d=200x200" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software and machine learning.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing More Knowledge and Gaming as hobbies/side hustles.  
+- 🤔 &nbsp; Exploring new technologies and developing software and machine learning.
+- 🎓 &nbsp; Studying Computer Science and Engineering.
+- 💼 &nbsp; I'm currently working on Full Stack Development projects.
+- 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+- ✍️ &nbsp; Pursuing More Knowledge and Gaming as hobbies/side hustles.
+
 </div> 
-</div>
+</di
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christoliniangelo&show_icons=true&locale=en&layout=compact" alt="christoliniangelo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christoliniangelo&show_icons=true&locale=en" alt="christoliniangelo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christoliniangelo&" alt="christoliniangelo" /></p>
