@@ -26,32 +26,6 @@
 <a href="https://www.youtube.com/c/https://youtube.com/@angelozandroto6996?si=fvtlpbxd1ozcudlq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@angelozandroto6996?si=fvtlpbxd1ozcudlq" height="30" width="40" /></a>
 </p>
 
-<h1 align="center"> Hey there! I'm Christolini Angelo 👋 </h1>
-<p align="center">
-  <img src="https://media.tenor.com/rRPKwueMmooAAAAd/klee-albedo-genshin.gif" alt="Klee and Albedo GIF" />
-</p>
-
-<h3 align="center">🚀 Web Dev & AI/ML Enthusiast | Genshin Addict 🚀</h3>
-<div>
-<img width="35%" align="right" alt="PIC" height="300px" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-hutao/sticker_2.png?2c9966a5520fdab6c03fda5ca193f388&d=200x200" />
-<div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software and machine learning.
-- 🎓 &nbsp; Studying Computer Science and Engineering.
-- 💼 &nbsp; I'm currently working on Full Stack Development projects.
-- 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-- ✍️ &nbsp; Pursuing More Knowledge and Gaming as hobbies/side hustles.
-
-</div> 
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/christolini-angelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christolini angelo satulo zandroto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@angelozandroto6996?si=fvtlpbxd1ozcudlq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@angelozandroto6996?si=fvtlpbxd1ozcudlq" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
