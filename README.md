@@ -1,4 +1,4 @@
-<h1 align="center">` Hey there! I'm Christolini Angelo 👋 </h1>
+<h1 align="center"> Hey there! I'm Christolini Angelo 👋 </h1>
 
 <h3 align="center">🚀 Web Dev & AI/ML Enthusiast | Genshin Addict  🚀</h3>
 <div>
