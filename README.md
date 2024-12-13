@@ -18,7 +18,10 @@
 - ✍️ &nbsp; Pursuing More Knowledge and Gaming as hobbies/side hustles.
 
 </div> 
-</di
+</d
+
+ 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -69,6 +72,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christoliniangelo&show_icons=true&locale=en&layout=compact" alt="christoliniangelo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christoliniangelo&" alt="christoliniangelo" /></p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 120px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christoliniangelo&show_icons=true&locale=en&layout=compact" alt="christoliniangelo" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christoliniangelo&" alt="christoliniangelo" />
+</div>
