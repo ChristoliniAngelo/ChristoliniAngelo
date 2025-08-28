@@ -12,8 +12,8 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software and machine learning.
-- 🎓 &nbsp; Computer Engineer at Tel-U Surabaya.
-- 💼 &nbsp; I'm currently working on Full Stack Development projects.
+- 🎓 &nbsp; Computer Engineering at Tel-U Surabaya.
+- 💼 &nbsp; I'm currently working on Full Stack Development project.
 - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
 - ✍️ &nbsp; Pursuing More Knowledge and Gaming as hobbies/side hustles.
 
