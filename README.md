@@ -70,12 +70,10 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
     <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/> 
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer" 
-     style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
-    <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="40" height="40"/>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+    <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="40" height="40"/>
   </a>
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer" 
-   style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
 </a>
 </p>
