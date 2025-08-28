@@ -12,7 +12,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software and machine learning.
-- 🎓 &nbsp; Computer Science and Engineering Fresh Graduates.
+- 🎓 &nbsp; Computer Engineer at Tel-U Surabaya.
 - 💼 &nbsp; I'm currently working on Full Stack Development projects.
 - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
 - ✍️ &nbsp; Pursuing More Knowledge and Gaming as hobbies/side hustles.
@@ -70,6 +70,14 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
     <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/> 
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer" 
+     style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+    <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer" 
+   style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
+</a>
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 120px;">
