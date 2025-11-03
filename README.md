@@ -1,86 +1,125 @@
-<h1 align="center"> Hey there! I'm Christolini Angelo 👋 </h1>
+<div align="center">
 
-<h3 align="center">🚀 Web Dev & AI/ML Enthusiast | Genshin Addict  🚀</h3>
+# 👋 Hey there! I'm Christolini Angelo
 
-<p align="center">
-  <img src="https://media.tenor.com/rRPKwueMmooAAAAd/klee-albedo-genshin.gif" alt="Klee and Albedo GIF" />
-</p>
+### 🚀 Production Systems Developer | Full Stack Engineer | AI/ML Enthusiast 🚀
 
-<div>
-<img align="right" alt="PIC" height="300px" src="https://i.pinimg.com/originals/1e/98/b3/1e98b30a51853928731feea866258107.png" />
-<div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
+<img src="https://media.tenor.com/rRPKwueMmooAAAAd/klee-albedo-genshin.gif" alt="Klee and Albedo" width="400"/>
 
-- 🤔 &nbsp; Exploring new technologies and developing software and machine learning.
-- 🎓 &nbsp; Computer Engineering at Tel-U Surabaya.
-- 💼 &nbsp; I'm currently working on Full Stack Development project.
-- 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-- ✍️ &nbsp; Pursuing More Knowledge and Gaming as hobbies/side hustles.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christolini-angelo/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@angelozandroto6996?si=fvtlpbxd1ozcudlq)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christoliniangelo@gmail.com)
 
-</div> 
-</d
+</div>
 
- 
+---
 
+## 🎯 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/christolini-angelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christolini angelo satulo zandroto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@angelozandroto6996?si=fvtlpbxd1ozcudlq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@angelozandroto6996?si=fvtlpbxd1ozcudlq" height="30" width="40" /></a>
-</p>
+```typescript
+const christolini = {
+    location: "Surabaya, Indonesia 🇮🇩",
+    currentRole: "Production Systems Developer @ ECCO Indonesia",
+    education: "Computer Engineering | Telkom University Surabaya",
+    interests: ["Full Stack Development", "Machine Learning", "System Automation", "Genshin Impact"],
+    currentlyLearning: ["Backend Architectures", "Advanced Frontend Patterns"],
+    funFact: "I transform complex production workflows into elegant digital solutions ✨"
+};
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" alt=".NET" width="40" height="40"/> 
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/> 
-  </a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"style="padding: 10px; border-radius: 5px; display: inline-block; background-color: white; color-scheme: light dark;">
-  <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="40" height="40" 
-       style="filter: invert(0) brightness(1);"/>
-</a>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1e/98/b3/1e98b30a51853928731feea866258107.png"/>
 
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer" style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
-  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
-</a>
-</p>
+### 💼 What I'm Up To
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 120px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christoliniangelo&show_icons=true&locale=en&layout=compact" alt="christoliniangelo" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christoliniangelo&" alt="christoliniangelo" />
+- 🏭 Building centralized web platforms for production systems at ECCO Indonesia
+- 🔧 Developing digital audit systems with Power BI integration
+- 📊 Creating automated attendance & payroll systems (43% faster processing!)
+- 🤖 Exploring ML applications in business process optimization
+- 🎮 Gaming and continuous learning as my side passion
+
+### 🌱 Current Focus
+
+- Mastering backend architectures and scalable system design
+- Advancing frontend development with modern frameworks
+- Integrating AI/ML into production workflows
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+### Data Science & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Tools & Platforms
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Christolini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=christoliniangelo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christoliniangelo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christoliniangelo&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## 🏆 Key Achievements
+
+- 🎓 **Bangkit Academy 2023** - Machine Learning Path Graduate (Google, Tokopedia, Gojek, Traveloka)
+- ⚡ **43% Efficiency Boost** - Automated payroll system reducing processing time from 31st to 17th
+- 🏭 **Digital Transformation** - Led production system digitalization at ECCO Indonesia
+- 🤖 **AI Innovation** - Developed sentiment analysis & ML-based recommendation systems
+- 📱 **Full Stack Projects** - Built end-to-end solutions from UI/UX to backend & database
+
+---
+
+## 💡 Featured Projects
+
+> 🚀 Check out my repositories for production systems, automation tools, ML projects, and more!
+
+<div align="center">
+
+### 🔥 Always learning, always building, always gaming 🎮
+
+![Profile Views](https://komarev.com/ghpvc/?username=christoliniangelo&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+*Open to collaboration on innovative projects and tech discussions*
+
+**📧 christoliniangelo@gmail.com | 📍 Surabaya, Indonesia**
+
 </div>
