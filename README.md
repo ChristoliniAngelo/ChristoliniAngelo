@@ -16,16 +16,29 @@
 
 ## 🎯 About Me
 
-const christolini = {
-    location: "Surabaya, Indonesia 🇮🇩",
-    currentRole: "Production Systems Developer @ ECCO Indonesia",
-    education: "Computer Engineering | Telkom University Surabaya",
-    interests: ["Full Stack Development", "Machine Learning", "System Automation", "Genshin Impact"],
-    currentlyLearning: ["Backend Architectures", "Advanced Frontend Patterns"],
-    funFact: "I transform complex production workflows into elegant digital solutions ✨"
-};
+**💼 Current Role:** Production Systems Developer @ ECCO Indonesia  
+**🎓 Education:** Computer Engineering | Telkom University Surabaya  
+**📍 Location:** Surabaya, Indonesia 🇮🇩
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1e/98/b3/1e98b30a51853928731feea866258107.png"/>
+
+### 💻 Expertise
+
+**Full Stack Development**  
+.NET • Node.js • PHP • Vue.js • CodeIgniter
+
+**Data Science & ML**  
+Python • TensorFlow • Scikit-learn • Pandas • ML Models
+
+**Database & Analytics**  
+SQL Server • Database Design • Power BI • SSRS
+
+### 🔥 What Drives Me
+
+- 🚀 Full Stack Development
+- 🤖 Machine Learning & AI
+- ⚙️ System Automation
+- 🎮 Genshin Impact
 
 ### 💼 What I'm Up To
 
@@ -35,11 +48,25 @@ const christolini = {
 - 🤖 Exploring ML applications in business process optimization
 - 🎮 Gaming and continuous learning as my side passion
 
-### 🌱 Current Focus
+### 🌱 Currently Learning
 
-- Mastering backend architectures and scalable system design
-- Advancing frontend development with modern frameworks
-- Integrating AI/ML into production workflows
+- Advanced Backend Architectures
+- Modern Frontend Patterns
+- Cloud Infrastructure
+
+### 🏆 Quick Wins
+
+- ⚡ **43% faster** payroll processing through automation
+- 🏭 Digitalized production workflows for **1000+ employees**
+- 🤖 Built **AI-powered** recommendation systems
+
+### ✨ Fun Fact
+
+*I turn complex production chaos into elegant digital harmony*
+
+### 🤝 Open To
+
+Collaboration • Tech Discussions • Open Source Contributions
 
 ---
 
