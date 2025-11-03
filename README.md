@@ -119,7 +119,7 @@ Collaboration • Tech Discussions • Open Source Contributions
 
 - 🎓 **Bangkit Academy 2023** - Machine Learning Path Graduate (Google, Tokopedia, Gojek, Traveloka)
 - ⚡ **43% Efficiency Boost** - Automated payroll system reducing processing time from 31st to 17th
-- 🏭 **Digital Transformation** - Led production system digitalization at ECCO Indonesia
+- 🏭 **Digital Transformation** - production system at ECCO Indonesia
 - 🤖 **AI Innovation** - Developed sentiment analysis & ML-based recommendation systems
 - 📱 **Full Stack Projects** - Built end-to-end solutions from UI/UX to backend & database
 
