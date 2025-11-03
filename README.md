@@ -16,7 +16,6 @@
 
 ## 🎯 About Me
 
-```typescript
 const christolini = {
     location: "Surabaya, Indonesia 🇮🇩",
     currentRole: "Production Systems Developer @ ECCO Indonesia",
@@ -25,7 +24,6 @@ const christolini = {
     currentlyLearning: ["Backend Architectures", "Advanced Frontend Patterns"],
     funFact: "I transform complex production workflows into elegant digital solutions ✨"
 };
-```
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1e/98/b3/1e98b30a51853928731feea866258107.png"/>
 
